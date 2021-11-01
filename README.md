@@ -10,5 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Devops Culture
 - 📫 How to reach me @ raam714@gmail.com
 - 😄 Pronouns: He/His/Him
-- ⚡ Blog :https://www.codementor.io/@raam714
-
+- ⚡ Blog: https://www.codementor.io/@raam714
